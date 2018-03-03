@@ -17,13 +17,14 @@ let handlers = {
 };
 
 app.post('/', (req, res) =>{
-    console.log('I am In');
-    let alexa = Alexa.handler(event, context);
-    alexa.appId = 'amzn1.ask.skill.1278c968-0b93-421e-80f8-039f6047063a';
+    console.log('I am In',req.body);
+        res.json({"hello":"world"});
+    //let alexa = Alexa.handler(event, context);
+    //alexa.appId = 'amzn1.ask.skill.1278c968-0b93-421e-80f8-039f6047063a';
     //alexa.resources = languageStrings;
     //alexa.dynamoDBTableName = 'UltracalQuestions';
-    alexa.registerHandlers(handlers);
-    alexa.execute();
+    //alexa.registerHandlers(handlers);
+    //alexa.execute();
 });
 
 app.listen(port, function(){
