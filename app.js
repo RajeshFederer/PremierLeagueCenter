@@ -11,8 +11,8 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(bodyParser.json());
 
 let handlers = {
-'standings': function() {
-        this.emit(':ask', 'Hello World');
+'standings': function(req,resp) {
+        resp.speak('Hello World');
     }
 };
 
