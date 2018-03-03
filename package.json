@@ -1,0 +1,25 @@
+{
+  "name": "premierleaguecenter",
+  "version": "1.0.0",
+  "description": "Amazon Alexa bot which helps information about standing, fixtures about English Premier League",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "incident"
+  ],
+  "author": "Rajeshwaran",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "*",
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "passport": "^0.4.0",
+    "passport-auth0": "^0.6.1",
+    "request": "^2.83.0",
+    "servicenow-nodejs": "^0.3.0"
+  }
+}
