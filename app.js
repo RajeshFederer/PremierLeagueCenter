@@ -17,8 +17,8 @@ let handlers = {
 };
 
 app.post('/', (req, res) =>{
-    console.log('I am In',JSON.stringify(req.body), res);
-    res.say("hello world");
+    console.log('I am In',JSON.stringify(req.body));
+    res.send("hello world");
     //let alexa = Alexa.handler(event, context);
     //alexa.appId = 'amzn1.ask.skill.1278c968-0b93-421e-80f8-039f6047063a';
     //alexa.resources = languageStrings;
