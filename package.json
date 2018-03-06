@@ -22,6 +22,7 @@
     "passport": "^0.4.0",
     "passport-auth0": "^0.6.1",
     "request": "^2.83.0",
-    "servicenow-nodejs": "^0.3.0"
+    "servicenow-nodejs": "^0.3.0",
+    "underscore": "^1.8.3"
   }
 }
