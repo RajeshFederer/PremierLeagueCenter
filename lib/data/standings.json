@@ -431,7 +431,9 @@
                   "Hammers",
                   "westhamfc",
                   "west hamfc",
-                  "WHFC"
+                  "WHFC",
+                  "Hammers",
+                  "hammer fc"
                 ]
               }
             },
@@ -486,7 +488,9 @@
                   "palace",
                   "CrystalPalace",
                   "CrystalPalacefc",
-                  "CPFC"
+                  "CPFC",
+                  "palace",
+                  "palace fc"
                 ]
               }
             },
@@ -527,7 +531,9 @@
                   "West Bromwich Albion",
                   "West Bromwich Albion fc",
                   "West Brom Albion",
-                  "West Brom Albion FC"
+                  "West Brom Albion FC",
+                  "brom",
+                  "brom fc"
                 ]
               }
             },
@@ -673,7 +679,8 @@
             "who is {positions} in the league",
             "which team is {positions} in the table",
             "which team is {positions} in the league",
-            "is {team} {positions} from the {tableSide} of the table"
+            "is {team} {positions} from the {tableSide} of the table",
+            "where is {team} in the league"
           ],
           "slots": [
             {
