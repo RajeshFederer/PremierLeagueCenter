@@ -24,3 +24,7 @@ app.post('/', (req, res) =>{
 app.listen(port, function(){
     console.log('AGENT is running my app on  PORT: ' + port);
 });
+
+let a = ["wEst","weSt"];
+console.log(a.toString().toLowerCase().split(","));
+console.log(a);
