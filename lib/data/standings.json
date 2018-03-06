@@ -305,7 +305,8 @@
                 "synonyms": [
                   "upper",
                   "highest",
-                  "upper most"
+                  "upper most",
+                  "top"
                 ]
               }
             },
@@ -315,7 +316,8 @@
                 "value": "Bottom",
                 "synonyms": [
                   "lowest",
-                  "down"
+                  "down",
+                  "bottom"
                 ]
               }
             }
