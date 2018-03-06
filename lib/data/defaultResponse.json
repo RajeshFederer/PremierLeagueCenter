@@ -4,7 +4,7 @@
             "response": {
                 "outputSpeech": {
                   "type": "PlainText",
-                  "text": "Premier League is currently updating the table. Please try agin later"
+                  "text": "Premier League is currently updating the data. Please try again later"
                 },
                 "shouldEndSession": false
             }
