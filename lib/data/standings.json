@@ -1,0 +1,698 @@
+{
+    "languageModel": {
+      "types": [
+        {
+          "name": "positions",
+          "values": [
+            {
+              "id": null,
+              "name": {
+                "value": "1",
+                "synonyms": [
+                  "first",
+                  "1st",
+                  "top",
+                  "one",
+                  "1"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "2",
+                "synonyms": [
+                  "second",
+                  "2nd",
+                  "2",
+                  "two"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "3",
+                "synonyms": [
+                  "third",
+                  "three",
+                  "3rd",
+                  "3"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "4",
+                "synonyms": [
+                  "4",
+                  "four",
+                  "fourth",
+                  "4th"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "5",
+                "synonyms": [
+                  "5",
+                  "five",
+                  "fifth",
+                  "5th"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "6",
+                "synonyms": [
+                  "6",
+                  "six",
+                  "sixth",
+                  "6th"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "7",
+                "synonyms": [
+                  "7",
+                  "7th",
+                  "seven",
+                  "seventh"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "8",
+                "synonyms": [
+                  "8",
+                  "8th",
+                  "eighth",
+                  "eight"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "9",
+                "synonyms": [
+                  "9",
+                  "9th",
+                  "nine",
+                  "ninth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "10",
+                "synonyms": [
+                  "10",
+                  "ten",
+                  "tenth",
+                  "10th"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "11",
+                "synonyms": [
+                  "11",
+                  "11th",
+                  "eleven",
+                  "eleventh"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "12",
+                "synonyms": [
+                  "12",
+                  "12th",
+                  "twelve",
+                  "twelfth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "13",
+                "synonyms": [
+                  "13",
+                  "13th",
+                  "thirteen",
+                  "thirteenth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "14",
+                "synonyms": [
+                  "14",
+                  "14th",
+                  "fourteen",
+                  "fourteenth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "15",
+                "synonyms": [
+                  "15",
+                  "15th",
+                  "fifteenth",
+                  "fifteen"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "16",
+                "synonyms": [
+                  "16",
+                  "16th",
+                  "sixteen",
+                  "sixteenth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "17",
+                "synonyms": [
+                  "17",
+                  "17th",
+                  "seventeen",
+                  "seventeenth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "18",
+                "synonyms": [
+                  "18",
+                  "18th",
+                  "eighteen",
+                  "eighteenth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "19",
+                "synonyms": [
+                  "19",
+                  "19th",
+                  "nineteen",
+                  "nineteenth"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "20",
+                "synonyms": [
+                  "20",
+                  "20th",
+                  "last",
+                  "twenty",
+                  "twentieth",
+                  "final"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "SlotPlay",
+          "values": [
+            {
+              "id": "play",
+              "name": {
+                "value": "play",
+                "synonyms": [
+                  "plays",
+                  "play",
+                  "playing",
+                  "faces",
+                  "facing",
+                  "face"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "SlotPosition",
+          "values": [
+            {
+              "id": "stand",
+              "name": {
+                "value": "stand",
+                "synonyms": [
+                  "stands",
+                  "position",
+                  "place",
+                  "places",
+                  "placed",
+                  "stand",
+                  "stands",
+                  "standing",
+                  "lies",
+                  "lying",
+                  "placing",
+                  "lie",
+                  "placing",
+                  "remains"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "tableSide",
+          "values": [
+            {
+              "id": "top",
+              "name": {
+                "value": "Top",
+                "synonyms": [
+                  "upper",
+                  "highest",
+                  "upper most"
+                ]
+              }
+            },
+            {
+              "id": "bottom",
+              "name": {
+                "value": "Bottom",
+                "synonyms": [
+                  "lowest",
+                  "down"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "team",
+          "values": [
+            {
+              "id": "9260",
+              "name": {
+                "value": "Manchester United",
+                "synonyms": [
+                  "Manchester United",
+                  "man united",
+                  "united",
+                  "man u",
+                  "manu",
+                  "Red devils",
+                  "Reds",
+                  "MUFC",
+                  "Manchesterunited",
+                  "manchesterunitedfc"
+                ]
+              }
+            },
+            {
+              "id": "9259",
+              "name": {
+                "value": "Manchester City",
+                "synonyms": [
+                  "Manchester City",
+                  "man city",
+                  "city",
+                  "manc",
+                  "man c",
+                  "mcfc",
+                  "no fans club",
+                  "manchestercity",
+                  "manchestercityfc"
+                ]
+              }
+            },
+            {
+              "id": "9092",
+              "name": {
+                "value": "Chelsea",
+                "synonyms": [
+                  "Chelsea",
+                  "Chelsea FC",
+                  "CFC",
+                  "ktbfh",
+                  "chelseafc"
+                ]
+              }
+            },
+            {
+              "id": "9065",
+              "name": {
+                "value": "Brighton",
+                "synonyms": [
+                  "Brighton",
+                  "Brighton FC",
+                  "Brightonfc"
+                ]
+              }
+            },
+            {
+              "id": "9158",
+              "name": {
+                "value": "Everton",
+                "synonyms": [
+                  "Everton",
+                  "Everton fc",
+                  "Evertonfc",
+                  "EFC"
+                ]
+              }
+            },
+            {
+              "id": "9053",
+              "name": {
+                "value": "Bournemouth",
+                "synonyms": [
+                  "Bournemouth",
+                  "Bournemouth fc",
+                  "Bournemouthfc"
+                ]
+              }
+            },
+            {
+              "id": "9387",
+              "name": {
+                "value": "Swansea",
+                "synonyms": [
+                  "Swansea",
+                  "Swansea city",
+                  "Swansea fc",
+                  "Swanseafc",
+                  "SCFC"
+                ]
+              }
+            },
+            {
+              "id": "9427",
+              "name": {
+                "value": "West Ham",
+                "synonyms": [
+                  "West Ham",
+                  "West Ham United",
+                  "Hammers",
+                  "westhamfc",
+                  "west hamfc",
+                  "WHFC"
+                ]
+              }
+            },
+            {
+              "id": "9220",
+              "name": {
+                "value": "Huddersfield",
+                "synonyms": [
+                  "Huddersfield",
+                  "Huddersfield Town",
+                  "Huddersfield fc",
+                  "Huddersfieldfc",
+                  "Huddersfield town fc",
+                  "Huddersfieldtownfc"
+                ]
+              }
+            },
+            {
+              "id": "9287",
+              "name": {
+                "value": "Newcastle",
+                "synonyms": [
+                  "Newcastle",
+                  "Newcastle united",
+                  "Newcastle united fc",
+                  "Newcastle fc",
+                  "Newcastleunitedfc",
+                  "nufc",
+                  "newcastleunited"
+                ]
+              }
+            },
+            {
+              "id": "9363",
+              "name": {
+                "value": "Southampton",
+                "synonyms": [
+                  "Southampton",
+                  "Southampton fc",
+                  "Southamptonfc",
+                  "SFC"
+                ]
+              }
+            },
+            {
+              "id": "9127",
+              "name": {
+                "value": "Crystal Palace",
+                "synonyms": [
+                  "Crystal Palace",
+                  "Crystal Palace fc",
+                  "palace",
+                  "CrystalPalace",
+                  "CrystalPalacefc",
+                  "CPFC"
+                ]
+              }
+            },
+            {
+              "id": "9378",
+              "name": {
+                "value": "Stoke",
+                "synonyms": [
+                  "Stoke",
+                  "Stoke city",
+                  "Stokecity",
+                  "Stoke city fc",
+                  "Stokecityfc"
+                ]
+              }
+            },
+            {
+              "id": "9249",
+              "name": {
+                "value": "Liverpool",
+                "synonyms": [
+                  "Liverpool",
+                  "Liverpool fc",
+                  "Liverpoolfc",
+                  "LFC"
+                ]
+              }
+            },
+            {
+              "id": "9426",
+              "name": {
+                "value": "West Brom",
+                "synonyms": [
+                  "West Brom",
+                  "West Brom fc",
+                  "West Bromfc",
+                  "WestBromfc",
+                  "West Bromwich Albion",
+                  "West Bromwich Albion fc",
+                  "West Brom Albion",
+                  "West Brom Albion FC"
+                ]
+              }
+            },
+            {
+              "id": "9406",
+              "name": {
+                "value": "Tottenham",
+                "synonyms": [
+                  "Tottenham",
+                  "spurs",
+                  "spurs fc",
+                  "Tottenham fc",
+                  "Tottenham hotspurs",
+                  "Tottenhamhotspursfc",
+                  "hotspurs",
+                  "hotspursfc"
+                ]
+              }
+            },
+            {
+              "id": "9002",
+              "name": {
+                "value": "Arsenal",
+                "synonyms": [
+                  "Arsenal",
+                  "Arsenal fc",
+                  "AFC",
+                  "gunner",
+                  "gunners",
+                  "gunners fc"
+                ]
+              }
+            },
+            {
+              "id": "9072",
+              "name": {
+                "value": "Burnley",
+                "synonyms": [
+                  "Burnley",
+                  "Burnleyfc",
+                  "Burnley fc"
+                ]
+              }
+            },
+            {
+              "id": "9240",
+              "name": {
+                "value": "Leicester",
+                "synonyms": [
+                  "Leicester",
+                  "Leicester city",
+                  "Leicester fc",
+                  "Leicester city fc",
+                  "Leicestercityfc"
+                ]
+              }
+            },
+            {
+              "id": "9423",
+              "name": {
+                "value": "Watford",
+                "synonyms": [
+                  "Watford",
+                  "Watford fc",
+                  "Watfordfc"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "schedule",
+          "samples": [
+            "who is the next opponent of {team}",
+            "when is the next match",
+            "who will {SlotPlay} next at {team}",
+            "when is the next match for {team}",
+            "when is the premier league match for {team}",
+            "who is {SlotPlay} {matchDay}",
+            "what is the match timing of {matchDay} match",
+            "what is the time of match between {team} vs {team}",
+            "Do we have any match on {matchDay}",
+            "when {team} {SlotPlay} next",
+            "where {team} {SlotPlay} next",
+            "who {team} {SlotPlay} next",
+            "where will {team} {SlotPlay} next",
+            "Does {team} have match on {matchDay}",
+            "Does {team} {SlotPlay} on {matchDay}",
+            "when is next match begins"
+          ],
+          "slots": [
+            {
+              "name": "team",
+              "type": "team"
+            },
+            {
+              "name": "matchDay",
+              "type": "AMAZON.DayOfWeek"
+            },
+            {
+              "name": "SlotPlay",
+              "type": "SlotPlay"
+            }
+          ]
+        },
+        {
+          "name": "standings",
+          "samples": [
+            "what is the {SlotPostion} of {team}",
+            "{positions} {SlotPostion} team in the table",
+            "{positions} team",
+            "which team is in {positions} {SlotPostion}",
+            "{positions} {SlotPostion} team",
+            "who are all in relegation zones",
+            "can you tell me the top {positions} teams",
+            "who is at the {tableSide} of the table",
+            "who is {tableSide} of the table",
+            "which team is at {tableSide} {positions} of the table",
+            "can you tell me {tableSide} {positions} teams",
+            "tell me the {tableSide} {positions} teams",
+            "which teams are at the {tableSide} {positions}",
+            "where is {team} at the table",
+            "where is {team} on the table",
+            "where is {team} in the table",
+            "where {team} {SlotPostion} on the table",
+            "where does {team} {SlotPostion} on the table",
+            "is {team} {tableSide} of the table",
+            "who is {positions} in the table",
+            "who is {positions} in the league",
+            "which team is {positions} in the table",
+            "which team is {positions} in the league",
+            "is {team} {positions} from the {tableSide} of the table"
+          ],
+          "slots": [
+            {
+              "name": "positions",
+              "type": "positions"
+            },
+            {
+              "name": "team",
+              "type": "team"
+            },
+            {
+              "name": "tableSide",
+              "type": "tableSide"
+            },
+            {
+              "name": "SlotPostion",
+              "type": "SlotPosition"
+            }
+          ]
+        }
+      ],
+      "invocationName": "premier league center"
+    }
+  }

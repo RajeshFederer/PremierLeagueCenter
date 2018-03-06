@@ -1,0 +1,13 @@
+{
+    "default":{
+        "standings":{
+            "response": {
+                "outputSpeech": {
+                  "type": "PlainText",
+                  "text": "Premier League is currently updating the table. Please try agin later"
+                },
+                "shouldEndSession": false
+            }
+        }
+    }
+}
