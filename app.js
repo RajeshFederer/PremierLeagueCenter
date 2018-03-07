@@ -28,4 +28,7 @@ app.listen(port, function(){
 let moment = require('moment');
 let matchDay = "09.04.2018";
 
-console.log('OI ', moment(matchDay));
+console.log('OI ', new Date("05-06-2018"));
+
+let a = "02.04.2018";
+console.log(new Date(a.substr(0,2)+"-"+a.substr(3,2)+ "-"+ a.substr(6,4) +" "+ "01:00"));
