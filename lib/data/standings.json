@@ -603,6 +603,272 @@
               }
             }
           ]
+        },
+        {
+          "name": "vsTeam",
+          "values": [
+            {
+              "id": "9260",
+              "name": {
+                "value": "Manchester United",
+                "synonyms": [
+                  "Manchester United",
+                  "Man United",
+                  "MUFC",
+                  "Man United FC",
+                  "United",
+                  "manu",
+                  "manchesterunitedfc",
+                  "Reds",
+                  "Red devils",
+                  "man u"
+                ]
+              }
+            },
+            {
+              "id": "9259",
+              "name": {
+                "value": "Manchester City",
+                "synonyms": [
+                  "Manchester City",
+                  "man city",
+                  "city",
+                  "no fans club",
+                  "manc",
+                  "man c",
+                  "manchestercityfc",
+                  "manchestercity",
+                  "mcfc"
+                ]
+              }
+            },
+            {
+              "id": "9092",
+              "name": {
+                "value": "Chelsea",
+                "synonyms": [
+                  "Chelsea",
+                  "Chelsea fc",
+                  "CFC",
+                  "ktbfh"
+                ]
+              }
+            },
+            {
+              "id": "9065",
+              "name": {
+                "value": "Brighton",
+                "synonyms": [
+                  "Brighton",
+                  "Brighton fc",
+                  "Brightonfc"
+                ]
+              }
+            },
+            {
+              "id": "9158",
+              "name": {
+                "value": "Everton",
+                "synonyms": [
+                  "Everton",
+                  "EFC",
+                  "Everton fc",
+                  "Evertonfc"
+                ]
+              }
+            },
+            {
+              "id": "9053",
+              "name": {
+                "value": "Bournemouth",
+                "synonyms": [
+                  "Bournemouth",
+                  "Bournemouth fc",
+                  "Bournemouthfc"
+                ]
+              }
+            },
+            {
+              "id": "9387",
+              "name": {
+                "value": "Swansea",
+                "synonyms": [
+                  "Swansea",
+                  "Swansea city",
+                  "Swanseafc",
+                  "Swansea city fc",
+                  "SCFC"
+                ]
+              }
+            },
+            {
+              "id": "9427",
+              "name": {
+                "value": "West Ham",
+                "synonyms": [
+                  "West Ham",
+                  "West Ham united",
+                  "West Ham united fc",
+                  "West Ham fc",
+                  "hammers",
+                  "WHFC"
+                ]
+              }
+            },
+            {
+              "id": "9220",
+              "name": {
+                "value": "Huddersfield",
+                "synonyms": [
+                  "Huddersfield",
+                  "Huddersfield fc",
+                  "Huddersfieldfc",
+                  "Huddersfield town",
+                  "Huddersfield town fc"
+                ]
+              }
+            },
+            {
+              "id": "9287",
+              "name": {
+                "value": "Newcastle",
+                "synonyms": [
+                  "Newcastle",
+                  "Newcastle united",
+                  "Newcastle united fc",
+                  "Newcastle fc"
+                ]
+              }
+            },
+            {
+              "id": "9363",
+              "name": {
+                "value": "Southampton",
+                "synonyms": [
+                  "Southampton",
+                  "Southampton fc",
+                  "Southamptonfc"
+                ]
+              }
+            },
+            {
+              "id": "9127",
+              "name": {
+                "value": "Crystal Palace",
+                "synonyms": [
+                  "Crystal Palace",
+                  "palace",
+                  "Crystal Palace fc",
+                  "CPFC",
+                  "Palace fc"
+                ]
+              }
+            },
+            {
+              "id": "9378",
+              "name": {
+                "value": "Stoke",
+                "synonyms": [
+                  "Stoke fc",
+                  "Stoke",
+                  "Stoke city",
+                  "Stoke city fc"
+                ]
+              }
+            },
+            {
+              "id": "9249",
+              "name": {
+                "value": "Liverpool",
+                "synonyms": [
+                  "Liverpool",
+                  "Liverpool fc",
+                  "YNWA",
+                  "Liverpoolfc",
+                  "LFC"
+                ]
+              }
+            },
+            {
+              "id": "9426",
+              "name": {
+                "value": "West Brom",
+                "synonyms": [
+                  "West Brom",
+                  "West Brom fc",
+                  "West Brom Albion",
+                  "West Brom Albion fc",
+                  "West Bromwich Albion fc",
+                  "West Bromwich Albion"
+                ]
+              }
+            },
+            {
+              "id": "9406",
+              "name": {
+                "value": "Tottenham",
+                "synonyms": [
+                  "Tottenham",
+                  "spurs",
+                  "spur",
+                  "Tottenhamhotspurs",
+                  "Tottenhamhotspursfc",
+                  "hotspurs",
+                  "hotspursfc",
+                  "THFC"
+                ]
+              }
+            },
+            {
+              "id": "9002",
+              "name": {
+                "value": "Arsenal",
+                "synonyms": [
+                  "Arsenal",
+                  "Arsenal fc",
+                  "Arsenalfc",
+                  "gunners",
+                  "gunnersfc",
+                  "gunner"
+                ]
+              }
+            },
+            {
+              "id": "9072",
+              "name": {
+                "value": "Burnley",
+                "synonyms": [
+                  "Burnley",
+                  "Burnley fc",
+                  "Burnleyfc"
+                ]
+              }
+            },
+            {
+              "id": "9240",
+              "name": {
+                "value": "Leicester",
+                "synonyms": [
+                  "Leicester",
+                  "Leicester city",
+                  "LCFC",
+                  "Leicester city fc",
+                  "Leicestercityfc"
+                ]
+              }
+            },
+            {
+              "id": "9423",
+              "name": {
+                "value": "Watford",
+                "synonyms": [
+                  "Watford",
+                  "Watford fc",
+                  "Watfordfc"
+                ]
+              }
+            }
+          ]
         }
       ],
       "intents": [
@@ -619,24 +885,20 @@
           "samples": []
         },
         {
-          "name": "schedule",
+          "name": "results",
           "samples": [
-            "who is the next opponent of {team}",
-            "when is the next match",
-            "who will {SlotPlay} next at {team}",
-            "when is the next match for {team}",
-            "when is the premier league match for {team}",
-            "who is {SlotPlay} {matchDay}",
-            "what is the match timing of {matchDay} match",
-            "what is the time of match between {team} vs {team}",
-            "Do we have any match on {matchDay}",
-            "when {team} {SlotPlay} next",
-            "where {team} {SlotPlay} next",
-            "who {team} {SlotPlay} next",
-            "where will {team} {SlotPlay} next",
-            "Does {team} have match on {matchDay}",
-            "Does {team} {SlotPlay} on {matchDay}",
-            "when is next match begins"
+            "what is the result of {team} vs {vsTeam}",
+            "who won the match between {team} and {vsTeam}",
+            "who won {team} vs {vsTeam}",
+            "did {team} beat {vsTeam}",
+            "who lost {team} vs {vsTeam}",
+            "what happened between {team} and {vsTeam}",
+            "who won the match on {matchDay}",
+            "who won",
+            "who lost",
+            "Is it draw between {team} {vsTeam}",
+            "what is the score of {team} vs {vsTeam}",
+            "what is the score between {team} and {vsTeam}"
           ],
           "slots": [
             {
@@ -644,12 +906,61 @@
               "type": "team"
             },
             {
+              "name": "vsTeam",
+              "type": "vsTeam"
+            },
+            {
               "name": "matchDay",
-              "type": "AMAZON.DayOfWeek"
+              "type": "AMAZON.DATE"
+            }
+          ]
+        },
+        {
+          "name": "schedule",
+          "samples": [
+            "who is the next opponent of {team}",
+            "when is the next match",
+            "who will {SlotPlay} next at {team}",
+            "when is the next match for {team}",
+            "when is the premier league match for {team}",
+            "what is the match timing of {matchDay} match",
+            "what is the time of match between {team} vs {vsTeam}",
+            "Do we have any match on {matchDay}",
+            "when {team} {SlotPlay} next",
+            "where {team} {SlotPlay} next",
+            "who {team} {SlotPlay} next",
+            "where will {team} {SlotPlay} next",
+            "Does {team} have match on {matchDay}",
+            "Does {team} {SlotPlay} on {matchDay}",
+            "who is {SlotPlay} {matchDay}",
+            "what is the match timing of {team} vs {vsTeam}",
+            "when is {team} vs {vsTeam}",
+            "when will {team} and {vsTeam} will play",
+            "when will {team} play next",
+            "who will play {team} on {matchDay}",
+            "who will face {team} on {matchDay}",
+            "which team will play {team} on {matchDay}"
+          ],
+          "slots": [
+            {
+              "name": "team",
+              "type": "team",
+              "samples": [
+                "{team}",
+                "I am looking for {team}"
+              ]
+            },
+            {
+              "name": "matchDay",
+              "type": "AMAZON.DATE"
             },
             {
               "name": "SlotPlay",
               "type": "SlotPlay"
+            },
+            {
+              "name": "vsTeam",
+              "type": "vsTeam"
             }
           ]
         },
@@ -680,7 +991,10 @@
             "which team is {positions} in the table",
             "which team is {positions} in the league",
             "is {team} {positions} from the {tableSide} of the table",
-            "where is {team} in the league"
+            "where is {team} in the league",
+            "how many points for {team}",
+            "total points of {team}",
+            "how much points {team} have this season"
           ],
           "slots": [
             {
@@ -703,5 +1017,61 @@
         }
       ],
       "invocationName": "premier league center"
+    },
+    "prompts": [
+      {
+        "id": "Elicit.Intent-schedule.IntentSlot-team",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Sure. Which {team} you are looking for"
+          },
+          {
+            "type": "PlainText",
+            "value": "Sure, You are asking about which {team}"
+          }
+        ]
+      }
+    ],
+    "dialog": {
+      "intents": [
+        {
+          "name": "schedule",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "team",
+              "type": "team",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Intent-schedule.IntentSlot-team"
+              }
+            },
+            {
+              "name": "matchDay",
+              "type": "AMAZON.DATE",
+              "elicitationRequired": false,
+              "confirmationRequired": false,
+              "prompts": {}
+            },
+            {
+              "name": "SlotPlay",
+              "type": "SlotPlay",
+              "elicitationRequired": false,
+              "confirmationRequired": false,
+              "prompts": {}
+            },
+            {
+              "name": "vsTeam",
+              "type": "vsTeam",
+              "elicitationRequired": false,
+              "confirmationRequired": false,
+              "prompts": {}
+            }
+          ]
+        }
+      ]
     }
   }
