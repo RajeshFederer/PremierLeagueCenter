@@ -26,9 +26,6 @@ app.listen(port, function(){
 });
 
 let moment = require('moment');
-let matchDay = '10-02-2018';
-if(moment().isAfter(matchDay)){
-    console.log('IN');
-}else{
-    console.log('OUT');
-}
+let matchDay = "09.04.2018";
+
+console.log('OI ', moment(matchDay));
