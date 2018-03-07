@@ -24,3 +24,11 @@ app.post('/', (req, res) =>{
 app.listen(port, function(){
     console.log('AGENT is running my app on  PORT: ' + port);
 });
+
+let moment = require('moment');
+let matchDay = '10-02-2018';
+if(moment().isAfter(matchDay)){
+    console.log('IN');
+}else{
+    console.log('OUT');
+}
